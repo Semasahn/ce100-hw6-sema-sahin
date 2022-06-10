@@ -1,0 +1,7 @@
+﻿  ce100-hw6-algo-lib-cpp.cpp
+  You may be using a weak algorithm that has been retained for backwards compatibility. Please '#define CRYPTOPP_ENABLE_NAMESPACE_WEAK 1' before including this .h file and prepend the class name with 'Weak::' to remove this warning.
+C:\Users\elifa\OneDrive\Masaüstü\ce100-hw6-elif-ak\ce100-hw6-sln\ce100-hw6-algo-lib-cpp\ce100-hw6-algo-lib-cpp.cpp(76,40): warning C4244: 'argument': conversion from 'CryptoPP::lword' to 'size_t', possible loss of data
+C:\Users\elifa\OneDrive\Masaüstü\ce100-hw6-elif-ak\ce100-hw6-sln\ce100-hw6-algo-lib-cpp\ce100-hw6-algo-lib-cpp.cpp(90,37): warning C4244: 'argument': conversion from 'CryptoPP::lword' to 'size_t', possible loss of data
+C:\Users\elifa\OneDrive\Masaüstü\ce100-hw6-elif-ak\ce100-hw6-sln\ce100-hw6-algo-lib-cpp\ce100-hw6-algo-lib-cpp.cpp(108,37): warning C4244: 'argument': conversion from 'CryptoPP::lword' to 'size_t', possible loss of data
+C:\Users\elifa\OneDrive\Masaüstü\ce100-hw6-elif-ak\ce100-hw6-sln\ce100-hw6-algo-lib-cpp\ce100-hw6-algo-lib-cpp.cpp(115): warning C4715: 'transformFile': not all control paths return a value
+  ce100-hw6-algo-lib-cpp.vcxproj -> C:\Users\elifa\OneDrive\Masaüstü\ce100-hw6-elif-ak\ce100-hw6-sln\Debug\ce100-hw6-algo-lib-cpp.lib
